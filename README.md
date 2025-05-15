@@ -53,7 +53,7 @@
 
 ### 📫 Connect with Me
 <p>
-  <a href="https://www.linkedin.com/in/pradipvasan/" target="_blank">
+  <a href="https://www.linkedin.com/in/pradip-vasan-0159732b5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:vasanpradip06@gmail.com">
